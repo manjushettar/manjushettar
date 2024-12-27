@@ -1,9 +1,4 @@
-## Hi there 👋
-
-### I'm building applications to make my life easier. Learning about mem-safe paradigms.
-### I'm looking to contribute to ML Ops and Infrastructure
-### Reach me on X: @manjuow
-
+running scripts
 
 <!--
 **manjushettar/manjushettar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
